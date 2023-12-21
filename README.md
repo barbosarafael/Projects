@@ -1,5 +1,17 @@
 # Projetos 🔭
 
+#### TO-DO'S:
+- Forecast de múltiplas séries temporais
+- Sistemas de recomendação
+- Aprender redes neurais (de verdade)
+- NLP
+- ML aplicado à geolocalização
+- Detecção de fraude/Concessão de crédito
+- Genarative AI
+- Análise de sentimentos
+- Extração de tópicos a partir de textos/feedbacks (automaticamente)
+- Reconhecimento de imagens
+- Match de produtos
 
 #### Treinando Pipelines do Sklearn
 
