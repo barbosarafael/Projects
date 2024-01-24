@@ -1,7 +1,7 @@
 # Projetos 🔭
 
 #### TO-DO'S:
-- Forecast de múltiplas séries temporais
+
 - Sistemas de recomendação
 - Aprender redes neurais (de verdade)
 - NLP
@@ -12,6 +12,11 @@
 - Extração de tópicos a partir de textos/feedbacks (automaticamente)
 - Reconhecimento de imagens
 - Match de produtos
+
+#### Projeções de múltiplas séries temporais
+
+- Objetivo: utilizar metodologias hierarquicas para projetar várias séries temporais de uma única vez
+- Repositório: https://github.com/barbosarafael/multiple-time-series-forecast
 
 #### Treinando Pipelines do Sklearn
 
