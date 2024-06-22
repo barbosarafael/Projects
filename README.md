@@ -12,6 +12,10 @@
 - Reconhecimento de imagens
 - Match de produtos
 
+#### GenerativeAI: Criando aplicações baseadas em LLMs
+
+Repositório: https://github.com/barbosarafael/llm-course-ufba
+
 #### Projeções de múltiplas séries temporais
 
 - Objetivo: utilizar metodologias hierarquicas para projetar várias séries temporais de uma única vez
