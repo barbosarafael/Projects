@@ -7,7 +7,6 @@
 - NLP
 - ML aplicado à geolocalização
 - Detecção de fraude/Concessão de crédito
-- Generative AI
 - Análise de sentimentos
 - Extração de tópicos a partir de textos/feedbacks (automaticamente)
 - Reconhecimento de imagens
